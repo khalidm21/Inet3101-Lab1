@@ -1,10 +1,10 @@
 # Inet3101-Lab1
 Inventory Parts Manager Code
-/*
+
 Khalid Mohamed
 Parts Inventory Storage Manager
 Inet 3101 Lab 1
-*/
+
 
 Parts Inventory Storage Manager
 
@@ -26,7 +26,9 @@ Steps.
 1. chooose a choice
 2. return to menu
 3. choose another choice or exit
-## Function Definitions
+
+
+Function Definitions
 
 1.Print all records
 - Loops through the database arrays and prints the details of each part.
